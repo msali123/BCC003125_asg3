@@ -101,6 +101,16 @@
 // }
 
 
+
+//Question7
+//  var a = [10, 20, 4, 40, 60, 70]
+//        var b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+//        output = document.write(
+//                    Array.from(new Set(b.concat(a)
+//                    )
+//                 )
+//              );
+
 // //Question8
 // document.write("Counting ");
 // for(i=1; i < 16; i++){
